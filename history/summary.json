@@ -4,8 +4,8 @@
     "url": "https://cloud.daytech.me",
     "icon": "https://favicons.githubusercontent.com/cloud.daytech.me",
     "slug": "cloud-day-tech",
-    "status": "up",
-    "uptime": "87.95%",
+    "status": "down",
+    "uptime": "87.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1253,
     "timeYear": 1193,
     "dailyMinutesDown": {
+      "2022-06-22": 0,
       "2022-03-24": 756,
       "2022-03-23": 1440,
       "2022-03-22": 1440,

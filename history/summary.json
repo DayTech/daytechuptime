@@ -5,14 +5,14 @@
     "icon": "https://favicons.githubusercontent.com/cloud.daytech.me",
     "slug": "cloud-day-tech",
     "status": "up",
-    "uptime": "88.05%",
+    "uptime": "88.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.05%",
+    "uptimeYear": "91.32%",
     "time": 1182,
-    "timeDay": 1111,
-    "timeWeek": 1295,
+    "timeDay": 1393,
+    "timeWeek": 1309,
     "timeMonth": 1164,
     "timeYear": 1203,
     "dailyMinutesDown": {
@@ -50,8 +50,7 @@
       "2021-09-06": 1440,
       "2021-09-05": 1440,
       "2021-09-04": 1440,
-      "2021-09-03": 1440,
-      "2021-09-02": 1440
+      "2021-09-03": 1440
     }
   }
 ]

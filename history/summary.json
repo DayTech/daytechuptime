@@ -4,8 +4,8 @@
     "url": "https://cloud.daytech.me",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.daytech.me.ico",
     "slug": "cloud-day-tech",
-    "status": "up",
-    "uptime": "89.07%",
+    "status": "down",
+    "uptime": "89.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1165,
     "timeYear": 1200,
     "dailyMinutesDown": {
+      "2023-01-05": 0,
       "2022-10-07": 514,
       "2022-10-06": 1440,
       "2022-10-05": 1440,

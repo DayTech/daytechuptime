@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.daytech.me.ico",
     "slug": "cloud-day-tech",
     "status": "up",
-    "uptime": "90.03%",
+    "uptime": "90.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.50%",
-    "time": 1193,
-    "timeDay": 1352,
-    "timeWeek": 1176,
-    "timeMonth": 1119,
+    "uptimeYear": "92.77%",
+    "time": 1192,
+    "timeDay": 1459,
+    "timeWeek": 1252,
+    "timeMonth": 1135,
     "timeYear": 1191,
     "dailyMinutesDown": {
       "2023-05-12": 452,
@@ -45,8 +45,7 @@
       "2022-10-06": 1440,
       "2022-10-05": 1440,
       "2022-10-04": 1440,
-      "2022-10-03": 1440,
-      "2022-10-02": 1440
+      "2022-10-03": 1440
     }
   }
 ]

@@ -6,17 +6,15 @@
     "slug": "cloud-day-tech",
     "status": "up",
     "uptime": "92.79%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1296,
-    "timeDay": 1408,
-    "timeWeek": 1524,
-    "timeMonth": 1503,
+    "timeDay": 1343,
+    "timeWeek": 1527,
+    "timeMonth": 1489,
     "timeYear": 1326,
-    "dailyMinutesDown": {
-      "2024-08-30": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]

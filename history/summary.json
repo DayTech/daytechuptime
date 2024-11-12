@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.daytech.me.ico",
     "slug": "cloud-day-tech",
     "status": "up",
-    "uptime": "93.20%",
+    "uptime": "93.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1342,
-    "timeDay": 1603,
-    "timeWeek": 1615,
-    "timeMonth": 1535,
-    "timeYear": 1390,
+    "timeDay": 997,
+    "timeWeek": 1571,
+    "timeMonth": 1530,
+    "timeYear": 1388,
     "dailyMinutesDown": {}
   }
 ]
